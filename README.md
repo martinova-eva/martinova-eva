@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Eva Martinova ✨</h1> 
-<h3 align="center">I'm a JS enthusiast, girl, wife, mother, dreamer ;)</h3>
+<h3 align="center">I'm a JS enthusiast ;)</h3>
 <img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="codding" width="400" align="right"/>
 
 - 🔭 I’m currently working on my skills
