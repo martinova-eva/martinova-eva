@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="codding" width="400" align="right"/>
 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning JS, Node.js, HTML, CSS ...
+- 🌱 I’m currently learning JS, Node.js, HTML, CSS , React, Redux, AJAX ..
 - 💬 Ask me about what you are interested in ;)
 - ⚡ Fun fact => I love to travel
 - 📫 How to reach me => <a style="text-decoration: none;" href="mailto:evelina_martinova@outlook.com">  click here </a>
